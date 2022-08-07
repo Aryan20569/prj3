@@ -1,0 +1,13 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+a{
+    font-size: 25px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px grey;
+    border-color: red;
+    padding: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
